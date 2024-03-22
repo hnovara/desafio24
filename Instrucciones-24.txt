@@ -1,0 +1,34 @@
+La aplicación permitirá al usuario agregar notas a una lista, editar el contenido de las notas, eliminar notas y marcar notas como favoritas.
+
+Datos de entrada:
+
+* Título y contenido de una nota para agregar o editar.
+* Identificador de una nota para eliminar o marcar como favorita.
+
+Datos de salida:
+
+* Lista actualizada de notas.
+
+Requerimientos funcionales:
+
+* La aplicación debe mostrar la lista actual de notas al cargar.
+* El usuario debe ser capaz de agregar nuevas notas a la lista.
+* El usuario debe ser capaz de editar el contenido de una nota existente.
+* El usuario debe ser capaz de eliminar una nota existente.
+* El usuario debe ser capaz de marcar una nota como favorita.
+
+Requerimientos no funcionales:
+
+* La aplicación debe ser desarrollada utilizando React y sus herramientas principales.
+* La aplicación debe ser responsiva y funcionar correctamente en diferentes tamaños de pantalla.
+
+Pasos para resolver el ejercicio:
+
+1.Crear un nuevo proyecto de React utilizando Create React App.
+2.Crear un componente principal de la aplicación que contenga el estado de las notas y funciones para agregar, editar, eliminar y marcar como favorita las notas.
+3.Crear un componente de formulario para agregar o editar una nota.
+4.Crear un componente de lista para mostrar las notas y permitir al usuario marcarlas como favoritas o eliminarlas.
+5.Agregar lógica para mostrar la lista de notas y permitir al usuario agregar nuevas notas utilizando el componente de formulario.
+6.Agregar lógica para permitir al usuario editar y eliminar notas utilizando el componente de lista.
+7.Agregar lógica para permitir al usuario marcar notas como favoritas utilizando el componente de lista.
+8.Estilizar la aplicación utilizando CSS o una biblioteca de estilos como Material UI.
